@@ -5,6 +5,10 @@
 
 This is the official [Bliss Browser](https://github.com/seanpm2001/Bliss_Browser/) documentation repository.
 
+The documentation is located here:
+
+> [`/Docs/`](/Docs/)
+
 ## Other major documentation hubs
 
 > **Note** Documentation from these repositories will be copied into this repository in the future.
@@ -21,6 +25,6 @@ This is the official [Bliss Browser](https://github.com/seanpm2001/Bliss_Browser
 
 ***
 
-**File version:** `1 (2023, Saturday, February 11th at 7:41 pm PST)`
+**File version:** `2 (2025, Sunday, January 12th at 05:32 pm PST)`
 
 ***
