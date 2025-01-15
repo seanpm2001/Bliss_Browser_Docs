@@ -19,13 +19,16 @@ Welcome to the core documentation repository for the Bliss Browser project. This
 
 ## Current documentation
 
-Last updated: 2025, Sunday, January 12th at 5:30 pm PST)
+Last updated: 2025, TUesday, January 14th at 07:50 pm PST)
 
 | Tree (file type) | Tree (documentation) |
 |---|---|
 | 📁️ Folder/directory | [`!OldVersions`](/Docs/!OldVersions/) |
 | 📁️ Folder/directory | [`!Other-Documentation`](/Docs/!Other-Documentation/) |
 | 📁️ Folder/directory | [`Languages`](/Docs/Languages/) |
+| 📂️ SubFolder/sub-directory | [`Languages/Classification-groups`](/Docs/Languages/Classification-groups/) |
+| 📁️ Folder/directory | [`Marketshare`](/Docs/Marketshare/) |
+| 📂️ SubFolder/sub-directory | [`Marketshare/Adoption`](/Docs/Marketshare/Adoption/) |
 | 📁️ Folder/directory | [`_AnkleBar`](/Docs/_AnkleBar/) |
 | 📁️ Folder/directory | [`_Anti-DRM`](/Docs/Anti-DRM/) |
 | 📁️ Folder/directory | [`_ArmaDillo-Mode`](/Docs/_ArmaDillo-Mode/) |
@@ -44,6 +47,6 @@ Last updated: 2025, Sunday, January 12th at 5:30 pm PST)
 
 # File info
 
-**File version:** `1 (2025, Sunday, January 12th at 05:30 pm PST)`
+**File version:** `2 (2025, Tuesday, January 14th at 07:50 pm PST)`
 
 ***
